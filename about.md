@@ -6,6 +6,24 @@ permalink: /News/
 
 Here's my first News Page:
 
+7/21/2017
+
+Here is my updating.
+
+What I'm trying to get going is adding a new page, a contact me .html file.
+
+I want to edit this theme, and add a new one.
+
+I'm going to put posts in proper folders and name and reference them properly.
+
+I'm also going to fix the one that's at the bottom of this one.
+
+OK, so compiling swim news, right, got it.
+
+Here's an article about:
+
+
+
 7/20/2017
 
 This is my first post. Today in the news I found several articles
