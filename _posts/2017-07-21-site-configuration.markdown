@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Site Configuration"
-date:   2017-07-20 03:22:05 -0700
+date:   2017-07-21 14:50:05 -0700
 categories: jekyll update
 ---
 This is my second post
