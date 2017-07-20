@@ -22,7 +22,7 @@ OK, so compiling swim news, right, got it.
 
 Here's a video article about the 2024 Olympics in Los Angeles.
 
-<iframe width="886" height="360" src="https://www.youtube.com/embed/dMUIS9lJ3uY" frameborder="0" allowfullscreen></iframe>
+
 
 
 
