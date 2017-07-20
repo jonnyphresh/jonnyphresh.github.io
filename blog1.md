@@ -1,6 +1,6 @@
 layout: page
 title: blog1
-permalink: /blog1/News/index/
+permalink: /blog1/
 
 Amanda Beard opens new facility in Washington
 (http://people.com/sports/olympian-amanda-beard-encourages-swim-education/)
