@@ -20,7 +20,9 @@ I'm also going to fix the one that's at the bottom of this one.
 
 OK, so compiling swim news, right, got it.
 
-Here's an article about:
+Here's a video article about the 2024 Olympics in Los Angeles.
+
+<iframe width="886" height="360" src="https://www.youtube.com/embed/dMUIS9lJ3uY" frameborder="0" allowfullscreen></iframe>
 
 
 
@@ -28,7 +30,7 @@ Here's an article about:
 
 This is my first post. Today in the news I found several articles
 
-http://people.com/sports/olympian-amanda-beard-encourages-swim-education/
+(http://people.com/sports/olympian-amanda-beard-encourages-swim-education/)
 
 In the referenced article, Amanda Beard goes on to talk about many facets of learning
 
