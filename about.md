@@ -1,18 +1,22 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: News
+permalink: /News/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Here's my first News Page:
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+7/20/2017
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+This is my first post. Today in the news I found several articles
 
+http://people.com/sports/olympian-amanda-beard-encourages-swim-education/
 
-[jekyll-organization]: https://github.com/jekyll
+In the referenced article, Amanda Beard goes on to talk about many facets of learning
+
+that are attributed to swimming early, "Attention parents looking for a way to jumpstart your kids’ emotional, intellectual and physical growth: Olympic gold medal-winning swimming sensation Amanda Beard has a message for you.
+
+“Get them in the water and teach them to swim,” says Beard, whose recently-opened Beard Swim Co., a swim school in Gig Harbor, Washington, has just become the first such facility recognized by the International Swimming Hall of Fame."
+
+This high recommendation of swimming early in life only re-iterates the importance of teaching young peopple
+how to swim.
