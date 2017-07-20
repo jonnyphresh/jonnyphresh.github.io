@@ -18,5 +18,5 @@ that are attributed to swimming early, "Attention parents looking for a way to j
 
 “Get them in the water and teach them to swim,” says Beard, whose recently-opened Beard Swim Co., a swim school in Gig Harbor, Washington, has just become the first such facility recognized by the International Swimming Hall of Fame."
 
-This high recommendation of swimming early in life only re-iterates the importance of teaching young peopple
+This high recommendation of swimming early in life only re-iterates the importance of teaching young people
 how to swim.
