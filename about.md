@@ -24,7 +24,7 @@ Here's a video and article about the 2024 Olympics that are to be held in Los An
 
 This is my first post. Today in the news I found several articles
 
-(http://people.com/sports/olympian-amanda-beard-encourages-swim-education/)
+[Amanda Beard Olympic Gold Medalist Opens Swim School](http://people.com/sports/olympian-amanda-beard-encourages-swim-education/)
 
 In the referenced article, Amanda Beard goes on to talk about many facets of learning
 
