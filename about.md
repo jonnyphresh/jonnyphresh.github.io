@@ -48,7 +48,7 @@ Here's a video and article about the 2024 Olympics that are to be held in Los An
 
 July 19, 2017
 ====================
-Today in the news I found several articles
+Today in the news I found the following:
 
 [Amanda Beard Olympic Gold Medalist Opens Swim School](http://people.com/sports/olympian-amanda-beard-encourages-swim-education/)
 
