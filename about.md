@@ -12,7 +12,8 @@ Today's update is from the next Olympics to be held in Los Angeles.
 
 Here's a video and article about the 2024 Olympics that are to be held in Los Angeles, CA, USA.
 
-<a href=https://swimswam.com/uscs-dedeaux-field-to-host-olympic-swimming-per-la-2024-video/>Olympics Held in Los Angeles 2024</a>
+[Olympics 2024 Los Angeles](https://swimswam.com/uscs-dedeaux-field-to-host-olympic-swimming-per-la-2024-video/)
+
 
 
 
