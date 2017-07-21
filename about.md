@@ -6,7 +6,7 @@ permalink: /News/
 
 **News Page**
 
-*July 22, 2017*
+*July 21, 2017*
 ===================
 
 Here's another gem of a website I came across today at Swimming World News
@@ -30,7 +30,7 @@ Here's another gem of a website I came across today at Swimming World News
 [Here's the link](http://ftw.usatoday.com/2017/06/2020-tokyo-olympics-swimming-program-equality-katie-ledecky-womens-1500-mens-800-meters-freestyle-international-olympic-committee-announcement)
 
 
-*July 21, 2017*
+*July 20, 2017*
 ====================
 
 Today's update is from the next Olympics to be held in Los Angeles.
@@ -45,7 +45,7 @@ Here's a video and article about the 2024 Olympics that are to be held in Los An
 
 
 
-July 20, 2017
+July 19, 2017
 ====================
 Today in the news I found several articles
 
