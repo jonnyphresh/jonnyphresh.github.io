@@ -13,9 +13,6 @@ permalink: /News/
 Here's an attempt at an embed on this page, as well as the link below to the article that this is in
 [Here's the link](http://ftw.usatoday.com/2017/06/2020-tokyo-olympics-swimming-program-equality-katie-ledecky-womens-1500-mens-800-meters-freestyle-international-olympic-committee-announcement)
 
-Cheers,
-
-Jon
 
 *July 21, 2017*
 ====================
