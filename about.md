@@ -36,6 +36,8 @@ Today's update is from the next Olympics to be held in Los Angeles.
 
 Here's a video and article about the 2024 Olympics that are to be held in Los Angeles, CA, USA.
 
+<img src="blob:https://swimswam.com/724738f9-8903-4528-b2cd-3499a3d54d6a" srcset="https://cdn.swimswam.com/wp-content/uploads/2016/08/hosszu-gold2-1080x720.jpg 1080w, https://cdn.swimswam.com/wp-content/uploads/2016/08/hosszu-gold2-300x200.jpg 300w, https://cdn.swimswam.com/wp-content/uploads/2016/08/hosszu-gold2-768x512.jpg 768w, https://cdn.swimswam.com/wp-content/uploads/2016/08/hosszu-gold2-640x427.jpg 640w" sizes="(max-width: 75em) 80vw, 900px" alt="Full 2017 FINA World Aquatic Championship Schedule">
+
 [Olympics 2024 Los Angeles](https://swimswam.com/uscs-dedeaux-field-to-host-olympic-swimming-per-la-2024-video/)
 
 
