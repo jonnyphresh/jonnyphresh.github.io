@@ -3,7 +3,7 @@
 }
 
 html {
-  box-sizing: border-box;
+  box-sizing max-width: 350px; max-height: 425px: border-box;
   -ms-overflow-style: scrollbar;
 }
 
