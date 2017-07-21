@@ -8,17 +8,12 @@ Here's my first News Page:
 
 7/21/2017
 
-Here is my updating.
-
-What I'm trying to get going is adding a new page, a contact me .html file.
-
-I'm also going to fix the one that's at the bottom of this one.
-
-OK, so compiling swim news, right, got it.
+Today's update is from the next Olympics to be held in Los Angeles.
 
 Here's a video and article about the 2024 Olympics that are to be held in Los Angeles, CA, USA.
 
-(https://swimswam.com/uscs-dedeaux-field-to-host-olympic-swimming-per-la-2024-video/)
+<a href=https://swimswam.com/uscs-dedeaux-field-to-host-olympic-swimming-per-la-2024-video/>Olympics Held in Los Angeles 2024</a>
+
 
 
 
