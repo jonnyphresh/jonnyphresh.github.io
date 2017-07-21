@@ -50,6 +50,8 @@ Today in the news I found several articles
 
 [Amanda Beard Olympic Gold Medalist Opens Swim School](http://people.com/sports/olympian-amanda-beard-encourages-swim-education/)
 
+<img alt="" class=" img--orientation-landscape" style="" src="https://peopledotcom.files.wordpress.com/2017/07/amanda-beard-1.png?w=2000">
+
 In the referenced article, Amanda Beard goes on to talk about many facets of learning
 
 that are attributed to swimming early, "Attention parents looking for a way to jumpstart your kids’ emotional, intellectual and physical growth: Olympic gold medal-winning swimming sensation Amanda Beard has a message for you.
