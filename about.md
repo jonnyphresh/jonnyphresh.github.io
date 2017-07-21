@@ -4,7 +4,7 @@ title: News
 permalink: /News/
 ---
 
-Here's my first News Page:
+**News Page**
 
 7/21/2017
 
