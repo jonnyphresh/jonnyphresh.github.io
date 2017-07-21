@@ -6,7 +6,8 @@ permalink: /News/
 
 **News Page**
 
-7/21/2017
+July 21, 2017
+====================
 
 Today's update is from the next Olympics to be held in Los Angeles.
 
@@ -20,9 +21,9 @@ Here's a video and article about the 2024 Olympics that are to be held in Los An
 
 
 
-7/20/2017
-
-This is my first post. Today in the news I found several articles
+July 20, 2017
+====================
+Today in the news I found several articles
 
 [Amanda Beard Olympic Gold Medalist Opens Swim School](http://people.com/sports/olympian-amanda-beard-encourages-swim-education/)
 
