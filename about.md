@@ -2,6 +2,7 @@
 layout: page
 title: News
 permalink: /News/
+permalink: /Private Lessons/
 ---
 
 Latest News
