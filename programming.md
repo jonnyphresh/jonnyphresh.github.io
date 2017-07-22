@@ -14,9 +14,7 @@ What Swim Logix™ Offers
 - Swim Website Building / Consulting
 **Insert Video of Swimming**
 - Photography Portfolio
-- [Avery Swimming](https://github.com/jonnyphresh/jonnyphresh.github.io/blob/master/IMG_0838.PNG)
-<a href span class="border-wrap"><img src="/jonnyphresh/jonnyphresh.github.io/blob/master/IMG_0838.PNG?raw=true" alt="IMG_0838.PNG"></span></a>
-- [Instagram](https://instagram.com/jonnyphresh
+**Available upon request**
 
 Have a wonderful day! (:
 ------------------------
