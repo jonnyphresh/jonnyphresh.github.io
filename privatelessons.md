@@ -24,9 +24,9 @@ What to bring:
 <h1>What to expect:</h1>
 
 *I will be either in the water or will greet you out of the water before your lesson.*
-*I'll  see if you guys would like to walk around and check out the fruit trees and flowers in the backyard.* *There is no pressure to get in the water at all, only to check out the toys.*
+*I'll see if you guys would like to walk around and check out the fruit trees and flowers in the backyard.* *There is no pressure to get in the water at all, only to check out the toys.*
 
-If you or your child is into checking out the toys, then they are a great bridge to the water. If she's already comfortable, the pool is super inviting and there will already be people having fun in it when she shows up so I expect her to be rearing and ready to go, but if not I have a very gentle approach to being afraid of the water and don't pressure them to get their eyes wet.
+If you or your child is into checking out the toys, then they are a great bridge to the water. If she's already comfortable, the pool is super inviting and there will already be people having fun in it when they show up so I expect them to be rearing and ready to go, but if not I have a very gentle approach to being afraid of the water and don't pressure them to get their eyes wet.
 
 If they want to get their face wet, then I get to teach them about "booger blows"(TM) which usually gets them laughing and once they learn "booger blows"(TM), they never get water up their nose which can make swimming very uncomfortable.
 
@@ -34,4 +34,4 @@ Anyways, prolly a little TMI, but there's a lot of singing and fun involved, bee
 
 I look forward to a great time!
 
-- Jon
+See you in the water
