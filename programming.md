@@ -4,9 +4,12 @@ title: Programming
 permalink: /Programming/
 ---
 Inqueries
---------
+----------
+email: swimnewscompiler@gmail.com
+
 - Please send to the email at the bottom of the screen to be added to a weekly email list.
-*I will never sell your information, ever. I will also only send you an email with 5 things in it*
+
+*I will never sell your information, ever. I will also only send you an email once per week with 5 things in it*
 
 - Private Swim Lessons
 **Insert Pic of backyard here**
@@ -17,3 +20,4 @@ Inqueries
 - Swim Website Building / Consulting
 
 Have a wonderful day! (:
+------------------------
