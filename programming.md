@@ -5,9 +5,8 @@ permalink: /Programming/
 ---
 Inqueries
 ----------
-email: swimnewscompiler@gmail.com
 
-- Please send to the email at the bottom of the screen to be added to a weekly email list.
+- Please send name & email in Contact Us form, I will respond ASAP
 
 *I will never sell your information, ever. I will also only send you an email once per week with 5 things in it*
 
