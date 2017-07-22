@@ -31,6 +31,6 @@ Pedigree
 - 2003 Started Teaching Private Lessons - w/ Specialization in fearful students of the water
 - 1996 Los Angeles County Junior Lifeguard - Redondo Beach, CA
 - 1995 Los Angeles County Junior Lifeguard - Torrance, CA
-      *Competed in Taplan trial races as backup in Paddleboard*
+    - *Competed in Taplan trial races as backup in Paddleboard*
 - 1994 Los Angeles County Junior Lifeguard - Torrance, CA
-      *First Learned CPR and Ocean Awareness*
+    - *First Learned CPR and Ocean Awareness*
