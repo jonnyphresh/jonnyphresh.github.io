@@ -6,7 +6,17 @@ permalink: /Programming/
 Inqueries
 ----------
 
-- Please send name & email in Contact Us form, I will respond ASAP
+- Please Contact me by submitting your information in the form below:
+__________________________
+<form action="https://formspree.io/swimnewscompiler@gmail.com"
+      method="POST">
+    <input type="text" name="name" placeholder="your name goes here"/>
+    <input type="text" name="_replyto" placeholder="your email goes here"/>
+    <input type="submit" value="Send">
+    <input type="hidden" name="_next" value="//jonnyphresh.github.io/thanks"/>
+    <input type="hidden" name="_subject" value="Thank you for reaching out" />
+    <input type="text" name="_gotcha" style="display:none" />
+</form>
 
 *I will never sell your information, ever. I will also only send you an email once per week with 5 things in it*
 
