@@ -4,7 +4,7 @@ title: About Swim Logix™
 permalink: /About Me/
 ---
 
-Please [Contact Us](https://jonnyphresh.github.io/Contact%20Us/) for private lessons
+Please [Contact Us](https://jonnyphresh.github.io/Contact%20Us/) for information about private lessons
 
 
 Breakdown
