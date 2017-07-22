@@ -3,7 +3,7 @@ layout: page
 title: News
 permalink: /News/
 ---
-background-image: (underwater.jpg)
+background-image: url(underwater.jpg)
 
 Latest News
 
