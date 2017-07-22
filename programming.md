@@ -7,7 +7,7 @@ Inqueries
 ----------
 
 - Please Contact me by submitting your information in the form below:
-__________________________
+-----------------------------------------------------------------------
 <form action="https://formspree.io/swimnewscompiler@gmail.com"
       method="POST">
     <input type="text" name="name" placeholder="your name goes here"/>
