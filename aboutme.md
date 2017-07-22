@@ -3,6 +3,10 @@ layout: page
 title: About Swim Logix™
 permalink: /About Me/
 ---
+
+Please [Contact Us](https://jonnyphresh.github.io/Contact%20Us/) for private lessons
+
+
 Breakdown
 ----------------
 - 14 years experience
@@ -26,6 +30,3 @@ Pedigree
 - 1996 Los Angeles County Junior Lifeguard - Redondo Beach, CA
 - 1995 Los Angeles County Junior Lifeguard - Torrance, CA
 - 1994 Los Angeles County Junior Lifeguard - Torrance, CA
-
-
-Please [Contact Us](https://jonnyphresh.github.io/Contact%20Us/) for private lessons
