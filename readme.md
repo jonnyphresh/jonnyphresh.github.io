@@ -1,9 +1,11 @@
-This is for my swim news compiler site
+This is now for a website called SwimLogixTM
 
-This site has a video review page and a news page
+Providing private swim lessons and website development help
 
-It will link to my other media pages.
+I have working knowledge of the following languages and frameworks:
 
-The other media pages will be created and then uploaded soon.
+html, css, javascript, ruby, rails, markdown, jekyll, bootstrap
 
-Stay tuned !
+head to [my website](https://jonnyphresh.github.io) to go see what I'm doing
+
+- thanks for reading
