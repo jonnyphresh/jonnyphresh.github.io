@@ -3,7 +3,7 @@ layout: page
 title: News
 permalink: /News/
 ---
-
+<body background underwater.jpg>
 Latest News
 
 *July 21, 2017*
