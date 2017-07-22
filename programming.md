@@ -17,7 +17,7 @@ What Swim Logix™ Offers
 
 - Swim Website Building / Consulting
 
-<iframe width="854" height="480" src="https://www.youtube.com/embed/2dg2E98Vz-8" frameborder="0" allowfullscreen></iframe>
+<iframe width="flex" height="flex" src="https://www.youtube.com/embed/2dg2E98Vz-8" frameborder="0" allowfullscreen></iframe>
 
 - Photography Portfolio
 **Available upon request**
