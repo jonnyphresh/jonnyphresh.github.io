@@ -3,7 +3,9 @@ layout: page
 title: News
 permalink: /News/
 ---
-background-image: http://www.publicdomainpictures.net/pictures/10000/nahled/swimming-pool-underwater-11279304180tmt1.jpg(swimming-pool-underwater-12279304180tmt1.jpg)
+body {
+    background-image: http://www.publicdomainpictures.net/pictures/10000/nahled/swimming-pool-underwater-11279304180tmt1.jpg(swimming-pool-underwater-12279304180tmt1.jpg);
+}
 
 Latest News
 
