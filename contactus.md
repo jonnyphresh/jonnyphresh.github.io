@@ -3,7 +3,7 @@ layout: page
 title: Contact Us
 permalink: /Contact Us/
 ---
-<form action="https://formspree.io/swimnewscompiler@gmail.com"
+<p><form action="https://formspree.io/swimnewscompiler@gmail.com"
       method="POST">
     <input type="text" name="name" placeholder="your name goes here"/>
     <input type="text" name="_replyto" placeholder="your email goes here"/>
@@ -11,9 +11,9 @@ permalink: /Contact Us/
     <input type="hidden" name="_next" value="//jonnyphresh.github.io/thanks"/>
     <input type="hidden" name="_subject" value="Thank you for reaching out" />
     <input type="text" name="_gotcha" style="display:none" />
-</form>
+</form></p>
 
 
-<p>Thank you so much for your interest!
+Thank you so much for your interest!
 
-We are working hard to respond to your query ASAP</p>
+We are working hard to respond to your query ASAP
