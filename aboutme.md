@@ -6,7 +6,7 @@ permalink: /About Me/
 Breakdown
 ----------------
 - 14 years experience
-- Specialization in 3mo+
+- 10 years experience with students aged 3 months old+
 - Specialization in fearful students of the water
 - Specialization with Special Needs
 - Specialization in performance  
@@ -16,15 +16,14 @@ Pedigree
 - 2017 14 years experience teaching private Lessons
 - 2017 Launched Swim Logix™ website as a swim news compiler / private lesson site
 - 2009 Started Specializing in Performance
-
-- 2007 Started Specializing in 3mo+
 - 2014 Earned BA from SDSU
+- 2007 Started Specializing in 3mo+
 - 2006 Earned AS from El Camino College
 - 2005 Started Specializing in Special Needs
 - 2004 Started Specializing in Junior Lifeguard Training
-- 1996 Junior Lifeguard - Redondo Beach, CA
 - 2003 Earned Water Safety Instructor Certificate from Red Cross
 - 2003 Started Teaching Private Lessons - w/ Specialization in fearful students of the water
+- 1996 Junior Lifeguard - Redondo Beach, CA
 - 1995 Junior Lifeguard - Torrance, CA
 - 1994 Junior Lifeguard - Torrance, CA
 
