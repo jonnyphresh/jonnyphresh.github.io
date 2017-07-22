@@ -28,4 +28,4 @@ Pedigree
 - 1994 Los Angeles County Junior Lifeguard - Torrance, CA
 
 
-Please [Contact Us](https://jonnyphresh.github.io/Contact%Us/) for private lessons
+Please [Contact Us](https://jonnyphresh.github.io/Contact20%Us/) for private lessons
