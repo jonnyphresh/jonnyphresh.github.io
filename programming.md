@@ -18,7 +18,6 @@ Inqueries
     <input type="text" name="_gotcha" style="display:none" />
 </form>
 
-*I will never sell your information, ever. I will also only send you an email once per week with 5 things in it*
 
 - Private Swim Lessons
 **Insert Pic of backyard here**
