@@ -13,6 +13,7 @@ permalink: /Contact Us/
     <input type="text" name="_gotcha" style="display:none" />
 </form>
 
-Thank you so much for your interest!
 
-We are working hard to respond to your query ASAP
+<p>Thank you so much for your interest!
+
+We are working hard to respond to your query ASAP</p>
