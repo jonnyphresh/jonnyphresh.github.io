@@ -13,7 +13,7 @@ What Swim Logix™ Offers
 <a href="http://dailyburn.com/life/fitness/swimming-workouts-every-level/" target="_blank" data-pwt="true" title="Advanced Swim Workout (1 mile /1650 yards)" style="cursor: pointer; border-radius: 6px; display: block; padding: 0px; font-weight: bold; text-decoration: none; color: rgb(113, 113, 113); overflow: hidden; margin: 24px 0px;"><img alt="Advanced Swim Workout (1 mile /1650 yards)" src="https://s-media-cache-ak0.pinimg.com/736x/7a/6c/4a/7a6c4a396a658e13256138b46225c6f4--swimming-drills-swimming-tips.jpg" style="transition: opacity 0.04s linear; border-radius: 8px; opacity: 1; display: block; height: 936px; margin: 0px auto; border: 0px; width: 620px; vertical-align: middle; position: relative; max-width: 626px;"></a>
 
 - Swim Progression Diagram
-<a href="/KTS_Progression_Chart_2016.pdf" target="_blank"><img src="images/progression-chart.jpg?1" alt=""></a>
+<a href="/sites/default/files/uploads/Guide%20to%20Swim%20Level%20Placement.pdf"><img alt="" src="/sites/default/files/uploads/Buttons_swim%20chart.jpg" style="width: 175px; height: 175px; margin: 10px 3px; float: left;"></a>
 
 - Swim Website Building / Consulting
 **Insert Video of Swimming**
