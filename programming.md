@@ -18,7 +18,7 @@ What Swim Logix™ Offers
 
 
 - Photography Portfolio
-[**Available upon request**](https://jonnyphresh.github.io/contact%20Us/)
+[**Available upon request**](https://jonnyphresh.github.io/Contact%20Us/)
 
 Have a wonderful day! (:
 ------------------------
