@@ -13,11 +13,11 @@ What Swim Logix™ Offers
 **Insert Blurry Pic of a Word Customized Page**
 - Swim Website Building / Consulting
 **Insert Video of Swimming**
-- Swim Photography
-![alt text][logo]
+- Photography Portfolio
+![alt text][Avery Swimming]
 
-[logo]: https://github.com/jonnyphresh/img_0838.PNG "Avery Swimming"
-[Instagram](https://instagram.com/jonnyphresh) "Instagram"
+[Avery Swimming]: https://github.com/jonnyphresh/jonnyphresh.github.io/blob/master/IMG_0838.PNG
+[Instagram](https://instagram.com/jonnyphresh)
 
 Have a wonderful day! (:
 ------------------------
