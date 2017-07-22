@@ -23,9 +23,9 @@ Pedigree
 - 2004 Started Specializing in Junior Lifeguard Training
 - 2003 Earned Water Safety Instructor Certificate from Red Cross
 - 2003 Started Teaching Private Lessons - w/ Specialization in fearful students of the water
-- 1996 Junior Lifeguard - Redondo Beach, CA
-- 1995 Junior Lifeguard - Torrance, CA
-- 1994 Junior Lifeguard - Torrance, CA
+- 1996 Los Angeles County Junior Lifeguard - Redondo Beach, CA
+- 1995 Los Angeles County Junior Lifeguard - Torrance, CA
+- 1994 Los Angeles County Junior Lifeguard - Torrance, CA
 
 
 Please email me for private lessons
