@@ -11,8 +11,12 @@ Latest News
 Michael Phelps decided to race a Great White Shark.
 
 [Michael Phelps vs Great White](http://www.mirror.co.uk/sport/other-sports/michael-phelps-shark-race-winner-10859279)
-<iframe title="VisualDNA Analytics" width="0" height="0" aria-hidden="true" src="//w.visualdna.com/analytics/?api_key=mirror&amp;post_message=1" style="display: none;"></iframe>
-
+<img alt=" MICHAEL PHELPS TO RACE
+ A GREAT WHITE SHARK
+ PHELPS: 23
+ GOLD MEDALS
+ SHARK: 0 GOLD MEDALS
+Phelps has the clear edge in Olympic medals, and fingers." src="https://pics.me.me/gacbssports-michael-phelps-to-race-a-great-white-shark-phelps-23141136.png">
 
 *July 21, 2017*
 ===================
