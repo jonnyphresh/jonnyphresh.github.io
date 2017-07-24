@@ -6,6 +6,14 @@ permalink: /News/
 
 Latest News
 
+*July 23, 2017*
+
+Michael Phelps decided to race a Great White Shark.
+
+[Michael Phelps vs Great White](http://www.mirror.co.uk/sport/other-sports/michael-phelps-shark-race-winner-10859279)
+<iframe title="VisualDNA Analytics" width="0" height="0" aria-hidden="true" src="//w.visualdna.com/analytics/?api_key=mirror&amp;post_message=1" style="display: none;"></iframe>
+
+
 *July 21, 2017*
 ===================
 
