@@ -7,6 +7,7 @@ permalink: /News/
 Latest News
 
 *July 23, 2017*
+==================
 
 Michael Phelps decided to race a Great White Shark.
 
@@ -18,7 +19,11 @@ Michael Phelps decided to race a Great White Shark.
  GOLD MEDALS
  SHARK: 0 GOLD MEDALS
 Phelps has the clear edge in Olympic medals, and fingers." src="https://pics.me.me/gacbssports-michael-phelps-to-race-a-great-white-shark-phelps-23141136.png">
+
+
 Spoiler Alert: Michael Phelps, even with a huge dolphin fin on, can't beat a shark.
+
+
 *July 21, 2017*
 ===================
 
