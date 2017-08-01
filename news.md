@@ -7,6 +7,7 @@ permalink: /News/
 Latest News
 
 *August 1, 2017*
+================
 
 [Swim Swam](http://swimswam.com)
 [FINA Schedule - Starts in August](https://swimswam.com/fina-announces-2017-world-cup-schedule/)
