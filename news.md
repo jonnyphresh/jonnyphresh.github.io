@@ -5,6 +5,7 @@ permalink: /News/
 ---
 
 Latest News
+
 *August 1, 2017*
 
 [Swim Swam](http://swimswam.com)
