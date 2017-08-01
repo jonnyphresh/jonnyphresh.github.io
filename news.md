@@ -5,101 +5,11 @@ permalink: /News/
 ---
 
 Latest News
-
 *August 1, 2017*
 
 [Swim Swam](http://swimswam.com)
-<section id="feat-slider" class="slick-initialized slick-slider">
-<div class="slick-list draggable" tabindex="0" style="padding: 0px 20%;"><div class="slick-track" style="opacity: 1; width: 5880px; transform: translate3d(-2940px, 0px, 0px);"><div class="slide slick-slide slick-cloned" style="background-image: url(&quot;https://cdn.swimswam.com/wp-content/uploads/2017/07/IOC_Slider-1600x720.jpg&quot;); width: 588px;">
-<a href="https://www.olympicchannel.com/en/playback/synchro-sisters/?utm_source=swimswam_display&amp;utm_medium=SwimSwam&amp;utm_campaign=SwimSwam_Display_Slider_General_Page&amp;utm_content=SwimSwam_Display_Slider_General_Page" class="cover" target="_blank"></a>
-</div><div class="slide slick-slide slick-cloned" style="background-image: url(&quot;https://cdn.swimswam.com/wp-content/uploads/2016/06/Ryan-Lochte-by-Mike-Lewis-1080x720.jpg&quot;); width: 588px;">
-<a href="https://swimswam.com/links-need-2017-us-open/" class="cover"></a>
-<span class="robots-noindex feat-cat">
-<a href="https://swimswam.com/news/" title="More News Stories">News</a>
-</span>
-<div class="meta">
-<h3><a href="https://swimswam.com/links-need-2017-us-open/" rel="bookmark">All the Links You Need for the 2017 US Open</a></h3>
-<p>Probably the biggest story that swim fans are expecting is a first look at Ryan Lochte racing since his Rio suspension.</p>
-<p class="alignleft"><a href="https://swimswam.com/links-need-2017-us-open/#comments" class="iconicfill-comment-fill">&nbsp; 20 Comments</a></p>
-<p class="alignright"><a href="https://swimswam.com/links-need-2017-us-open/" rel="bookmark">Read more »</a></p>
-</div>
-</div><div class="slide slick-slide" style="background-image: url(&quot;https://cdn.swimswam.com/wp-content/uploads/2016/07/stock-by-Mike-Lewis-by-Mike-Lewis-by-Mike-Lewis-1080x720.jpg&quot;); width: 588px;">
-<a href="https://swimswam.com/usa-swimming-hires-consulting-firm-review-age-group-tech-suit-policies/" class="cover"></a>
-<span class="robots-noindex feat-cat">
-<a href="https://swimswam.com/news/industry/" title="More Industry Stories">Industry</a>
-</span>
-<div class="meta">
-<h3><a href="https://swimswam.com/usa-swimming-hires-consulting-firm-review-age-group-tech-suit-policies/" rel="bookmark">USA Swimming Hires Consulting Firm To Review Age Group Tech Suit Policies</a></h3>
-<p>USA Swimming has hired outside consulting firm Isaac Sports Group to review various policies on tech suit use in age group swimming, with a final report due in November.</p>
-<p class="alignleft"><a href="https://swimswam.com/usa-swimming-hires-consulting-firm-review-age-group-tech-suit-policies/#comments" class="iconicfill-comment-fill">&nbsp; 2 Comments</a></p>
-<p class="alignright"><a href="https://swimswam.com/usa-swimming-hires-consulting-firm-review-age-group-tech-suit-policies/" rel="bookmark">Read more »</a></p>
-</div>
-</div><div class="slide slick-slide" style="background-image: url(&quot;https://cdn.swimswam.com/wp-content/uploads/2017/03/Galyer-20-Danielle-Galyer-Galyer-Kentucky-Aquatic-TBX_6658--1080x720.jpg&quot;); width: 588px;">
-<a href="https://swimswam.com/14-swimmers-selected-as-conference-nominees-for-ncaa-woman-of-the-year/" class="cover"></a>
-<span class="robots-noindex feat-cat">
-<a href="https://swimswam.com/news/" title="More News Stories">News</a>
-</span>
-<div class="meta">
-<h3><a href="https://swimswam.com/14-swimmers-selected-as-conference-nominees-for-ncaa-woman-of-the-year/" rel="bookmark">14 Swimmers Selected as Conference Nominees for NCAA Woman of the Year</a></h3>
-<p>2016 NCAA champion in the 200 backstroke Danielle Galyer is one of the swimmers selected to represent their conference.</p>
-<p class="alignleft"><a href="https://swimswam.com/14-swimmers-selected-as-conference-nominees-for-ncaa-woman-of-the-year/#comments" class="iconicfill-comment-fill">&nbsp; 1 Comment</a></p>
-<p class="alignright"><a href="https://swimswam.com/14-swimmers-selected-as-conference-nominees-for-ncaa-woman-of-the-year/" rel="bookmark">Read more »</a></p>
-</div>
-</div><div class="slide slick-slide" style="background-image: url(&quot;https://cdn.swimswam.com/wp-content/uploads/2017/04/SwimSwam_Adidas_Banner-1-1600x720.jpg&quot;); width: 588px;">
-<a href="https://adidasswimming.com" class="cover" target="_blank"></a>
-</div><div class="slide slick-slide slick-active slick-center" style="background-image: url(&quot;https://cdn.swimswam.com/wp-content/uploads/2017/07/Yui-Ohashi-by-Mike-Lewis-LDM_2394-1080x720.jpg&quot;); width: 588px;">
-<a href="https://swimswam.com/5-tips-swim-parents-journey/" class="cover"></a>
-<span class="robots-noindex feat-cat">
-<a href="https://swimswam.com/lifestyle/" title="More Lifestyle Stories">Lifestyle</a>
-</span>
-<div class="meta">
-<h3><a href="https://swimswam.com/5-tips-swim-parents-journey/" rel="bookmark">5 Tips For Swim Parents About The Journey</a></h3>
-<p>Swim parents share in the excitement and disappointments of our children’s journey in swimming.</p>
-<p class="alignleft"><a href="https://swimswam.com/5-tips-swim-parents-journey/#respond" class="iconicfill-comment-fill">&nbsp; Comment First!</a></p>
-<p class="alignright"><a href="https://swimswam.com/5-tips-swim-parents-journey/" rel="bookmark">Read more »</a></p>
-</div>
-</div><div class="slide slick-slide" style="background-image: url(&quot;https://cdn.swimswam.com/wp-content/uploads/2017/07/IOC_Slider-1600x720.jpg&quot;); width: 588px;">
-<a href="https://www.olympicchannel.com/en/playback/synchro-sisters/?utm_source=swimswam_display&amp;utm_medium=SwimSwam&amp;utm_campaign=SwimSwam_Display_Slider_General_Page&amp;utm_content=SwimSwam_Display_Slider_General_Page" class="cover" target="_blank"></a>
-</div><div class="slide slick-slide" style="background-image: url(&quot;https://cdn.swimswam.com/wp-content/uploads/2016/06/Ryan-Lochte-by-Mike-Lewis-1080x720.jpg&quot;); width: 588px;">
-<a href="https://swimswam.com/links-need-2017-us-open/" class="cover"></a>
-<span class="robots-noindex feat-cat">
-<a href="https://swimswam.com/news/" title="More News Stories">News</a>
-</span>
-<div class="meta">
-<h3><a href="https://swimswam.com/links-need-2017-us-open/" rel="bookmark">All the Links You Need for the 2017 US Open</a></h3>
-<p>Probably the biggest story that swim fans are expecting is a first look at Ryan Lochte racing since his Rio suspension.</p>
-<p class="alignleft"><a href="https://swimswam.com/links-need-2017-us-open/#comments" class="iconicfill-comment-fill">&nbsp; 20 Comments</a></p>
-<p class="alignright"><a href="https://swimswam.com/links-need-2017-us-open/" rel="bookmark">Read more »</a></p>
-</div>
-</div><div class="slide slick-slide slick-cloned" style="background-image: url(&quot;https://cdn.swimswam.com/wp-content/uploads/2016/07/stock-by-Mike-Lewis-by-Mike-Lewis-by-Mike-Lewis-1080x720.jpg&quot;); width: 588px;">
-<a href="https://swimswam.com/usa-swimming-hires-consulting-firm-review-age-group-tech-suit-policies/" class="cover"></a>
-<span class="robots-noindex feat-cat">
-<a href="https://swimswam.com/news/industry/" title="More Industry Stories">Industry</a>
-</span>
-<div class="meta">
-<h3><a href="https://swimswam.com/usa-swimming-hires-consulting-firm-review-age-group-tech-suit-policies/" rel="bookmark">USA Swimming Hires Consulting Firm To Review Age Group Tech Suit Policies</a></h3>
-<p>USA Swimming has hired outside consulting firm Isaac Sports Group to review various policies on tech suit use in age group swimming, with a final report due in November.</p>
-<p class="alignleft"><a href="https://swimswam.com/usa-swimming-hires-consulting-firm-review-age-group-tech-suit-policies/#comments" class="iconicfill-comment-fill">&nbsp; 2 Comments</a></p>
-<p class="alignright"><a href="https://swimswam.com/usa-swimming-hires-consulting-firm-review-age-group-tech-suit-policies/" rel="bookmark">Read more »</a></p>
-</div>
-</div><div class="slide slick-slide slick-cloned" style="background-image: url(&quot;https://cdn.swimswam.com/wp-content/uploads/2017/03/Galyer-20-Danielle-Galyer-Galyer-Kentucky-Aquatic-TBX_6658--1080x720.jpg&quot;); width: 588px;">
-<a href="https://swimswam.com/14-swimmers-selected-as-conference-nominees-for-ncaa-woman-of-the-year/" class="cover"></a>
-<span class="robots-noindex feat-cat">
-<a href="https://swimswam.com/news/" title="More News Stories">News</a>
-</span>
-<div class="meta">
-<h3><a href="https://swimswam.com/14-swimmers-selected-as-conference-nominees-for-ncaa-woman-of-the-year/" rel="bookmark">14 Swimmers Selected as Conference Nominees for NCAA Woman of the Year</a></h3>
-<p>2016 NCAA champion in the 200 backstroke Danielle Galyer is one of the swimmers selected to represent their conference.</p>
-<p class="alignleft"><a href="https://swimswam.com/14-swimmers-selected-as-conference-nominees-for-ncaa-woman-of-the-year/#comments" class="iconicfill-comment-fill">&nbsp; 1 Comment</a></p>
-<p class="alignright"><a href="https://swimswam.com/14-swimmers-selected-as-conference-nominees-for-ncaa-woman-of-the-year/" rel="bookmark">Read more »</a></p>
-</div>
-</div></div></div>
-
-
-
-
-
-<button type="button" class="slick-prev" style="display: block;">Previous</button><button type="button" class="slick-next" style="display: block;">Next</button></section>
+[FINA Schedule - Starts in August](https://swimswam.com/fina-announces-2017-world-cup-schedule/)
+<a href="https://cdn.swimswam.com/wp-content/uploads/2016/12/Veronika-Popova-by-Mike-Lewis-5.jpg" rel="lightbox"><img src="blob:https://swimswam.com/486b1ef2-e349-4bba-b89b-dee19cdc66fd" srcset="https://cdn.swimswam.com/wp-content/uploads/2016/12/Veronika-Popova-by-Mike-Lewis-5-1080x720.jpg 1080w, https://cdn.swimswam.com/wp-content/uploads/2016/12/Veronika-Popova-by-Mike-Lewis-5-300x200.jpg 300w, https://cdn.swimswam.com/wp-content/uploads/2016/12/Veronika-Popova-by-Mike-Lewis-5-768x512.jpg 768w, https://cdn.swimswam.com/wp-content/uploads/2016/12/Veronika-Popova-by-Mike-Lewis-5-640x427.jpg 640w" sizes="(max-width: 75em) 80vw, 900px" alt="FINA Announces 2017 World Cup Schedule"></a>
 
 *July 23, 2017*
 ==================
