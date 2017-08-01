@@ -5,6 +5,21 @@ permalink: /News/
 ---
 
 Latest News
+*August 1, 2017*
+
+[Swim Swam](http://swimswam.com)
+<div class="slide slick-slide" style="background-image: url(&quot;https://cdn.swimswam.com/wp-content/uploads/2016/07/stock-by-Mike-Lewis-by-Mike-Lewis-by-Mike-Lewis-1080x720.jpg&quot;); width: 588px;">
+<a href="https://swimswam.com/usa-swimming-hires-consulting-firm-review-age-group-tech-suit-policies/" class="cover"></a>
+<span class="robots-noindex feat-cat">
+<a href="https://swimswam.com/news/industry/" title="More Industry Stories">Industry</a>
+</span>
+<div class="meta">
+<h3><a href="https://swimswam.com/usa-swimming-hires-consulting-firm-review-age-group-tech-suit-policies/" rel="bookmark">USA Swimming Hires Consulting Firm To Review Age Group Tech Suit Policies</a></h3>
+<p>USA Swimming has hired outside consulting firm Isaac Sports Group to review various policies on tech suit use in age group swimming, with a final report due in November.</p>
+<p class="alignleft"><a href="https://swimswam.com/usa-swimming-hires-consulting-firm-review-age-group-tech-suit-policies/#comments" class="iconicfill-comment-fill">&nbsp; 2 Comments</a></p>
+<p class="alignright"><a href="https://swimswam.com/usa-swimming-hires-consulting-firm-review-age-group-tech-suit-policies/" rel="bookmark">Read more »</a></p>
+</div>
+</div>
 
 *July 23, 2017*
 ==================
