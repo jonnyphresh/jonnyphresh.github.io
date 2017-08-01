@@ -26,7 +26,7 @@ What to bring:
 *I will be either in the water or will greet you out of the water before your lesson.*
 *I'll see if you guys would like to walk around and check out the fruit trees and flowers in the backyard.* *There is no pressure to get in the water at all, only to check out the toys.*
 
-If you or your child is into checking out the toys, then they are a great bridge to the water. If she's already comfortable, the pool is super inviting and there will already be people having fun in it when they show up so I expect them to be rearing and ready to go, but if not I have a very gentle approach to being afraid of the water and don't pressure them to get their eyes wet on the first day.
+If you or your child is into checking out the toys, then they are a great bridge to the water. If (s)he's already comfortable, the pool is super inviting and there will already be people having fun in it when they show up so I expect them to be rearing and ready to go, but if not I have a very gentle approach to being afraid of the water and don't pressure them to get their eyes wet on the first day.
 
 I have 14 years experience and look forward to a great lesson.
 
