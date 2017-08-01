@@ -16,7 +16,7 @@ To get to the backyard:
 - 4) The paperwork will only take a few minutes, so arrive just a few minutes early to get that going, and so you can get acclimated to the backyard.
 
 What to bring:
-- Swim Diapers [See Website for best of 2017 Swim Diapers](https://www.babylist.com/hello-baby/best-swim-diapers)
+- 2 x Swim Diapers [See Website for best of 2017 Swim Diapers](https://www.babylist.com/hello-baby/best-swim-diapers)
 - swim suit
 - towel
 - snack for after lesson
