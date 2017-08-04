@@ -1,7 +1,7 @@
 ---
 layout: page
-title: News
-permalink: /News/
+title: IG Page
+permalink: /IG Page/
 ---
 <!DOCTYPE html>
 <!--[if lt IE 7]>      <html lang="en" class="no-js lt-ie9 lt-ie8 lt-ie7 logged-in client-root"> <![endif]-->
