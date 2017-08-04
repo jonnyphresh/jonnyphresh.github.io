@@ -15,5 +15,3 @@ permalink: /Contact Us/
 
 
 Thank you so much for your interest!
-
-We are working hard to respond to your query ASAP
