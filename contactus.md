@@ -8,7 +8,7 @@ permalink: /Contact Us/
 
 Thank you so much for your interest!
 
-<form action="/summer/#wpcf7-f1931-p1932-o1" method="post" class="wpcf7-form" novalidate="novalidate">
+<!--> <form action="/summer/#wpcf7-f1931-p1932-o1" method="post" class="wpcf7-form" novalidate="novalidate">
 <div style="display: none;">
 <input type="hidden" name="_wpcf7" value="1931">
 <input type="hidden" name="_wpcf7_version" value="4.8">
@@ -38,7 +38,7 @@ Thank you so much for your interest!
 <div id="messagearea"> <span class="wpcf7-form-control-wrap textarea-comments"><textarea name="textarea-comments" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false" placeholder="ADDITIONAL COMMENTS"></textarea></span></div>
 
 <div class="wpcf7-response-output wpcf7-display-none"></div></form>
-
+-->
 <p><form action="https://formspree.io/swimnewscompiler@gmail.com"
       method="POST">
     <input type="text" name="name" placeholder="Your Name Goes Here"/>
