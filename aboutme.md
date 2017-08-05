@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Swim Logix™
+title: About
 permalink: /About Me/
 ---
 
