@@ -3,15 +3,7 @@ layout: page
 title: Contact Us
 permalink: /Contact Us/
 ---
-<p><form action="https://formspree.io/swimnewscompiler@gmail.com"
-      method="POST">
-    <input type="text" name="name" placeholder="Your Name Goes Here"/>
-    <input type="text" name="_replyto" placeholder="Your Email Goes Here"/>
-    <input type="submit" value="Send">
-    <input type="hidden" name="_next" value="//jonnyphresh.github.io/thanks"/>
-    <input type="hidden" name="_subject" value="Thank you for reaching out" />
-    <input type="text" name="_gotcha" style="display:none" />
-</form></p>
+
 
 
 Thank you so much for your interest!
@@ -44,5 +36,15 @@ Thank you so much for your interest!
 <div id="messagearea"> <span class="wpcf7-form-control-wrap textarea-know"><textarea name="textarea-know" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false" placeholder="WHAT IS SOMETHING YOU THINK WE SHOULD KNOW ABOUT YOUR CHILD?"></textarea></span></div>
 <div id="messagearea"> <span class="wpcf7-form-control-wrap textarea-hear"><textarea name="textarea-hear" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false" placeholder="HOW DID YOU HEAR ABOUT US?"></textarea></span></div>
 <div id="messagearea"> <span class="wpcf7-form-control-wrap textarea-comments"><textarea name="textarea-comments" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false" placeholder="ADDITIONAL COMMENTS"></textarea></span></div>
-<div id="messagesubmit"><input type="submit" value="SUBMIT" class="wpcf7-form-control wpcf7-submit"><span class="ajax-loader"></span></div>
+
 <div class="wpcf7-response-output wpcf7-display-none"></div></form>
+
+<p><form action="https://formspree.io/swimnewscompiler@gmail.com"
+      method="POST">
+    <input type="text" name="name" placeholder="Your Name Goes Here"/>
+    <input type="text" name="_replyto" placeholder="Your Email Goes Here"/>
+    <input type="submit" value="Send">
+    <input type="hidden" name="_next" value="//jonnyphresh.github.io/thanks"/>
+    <input type="hidden" name="_subject" value="Thank you for reaching out" />
+    <input type="text" name="_gotcha" style="display:none" />
+</form></p>
