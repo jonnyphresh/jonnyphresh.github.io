@@ -5,10 +5,12 @@ permalink: /News/
 ---
 
 Latest News
+
 *August 8, 2017*
 ================
 [US Swim Team News - Missy Franklin Interview Part II](https://www.usaswimming.org/news-landing-page/2017/08/08/20-question-tuesday-missy-franklin-part-2)
 <img src="//www.usaswimming.org/images/default-source/events/2016-Olympic-Games/missy-franklin-6768669.jpg?sfvrsn=0" alt="20 Question Tuesday: Missy Franklin Part 2" style="width: 100%; min-width: 250px;">
+
 *August 1, 2017*
 ================
 
