@@ -6,8 +6,9 @@ html {
   box-sizing max-width: 350px; max-height: 425px: border-box;
   -ms-overflow-style: scrollbar;
 }
+
 body {
-  background-image: url('pool.jpg') center center no-repeat;
+  background-image: url('pool.jpg');
   background-size: cover;
 
 }
