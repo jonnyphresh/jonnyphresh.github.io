@@ -8,7 +8,7 @@ html {
 }
 
 body {
-  background-image: url('pool.jpg');
+  background-image: url('pool.jpg') center center no-repeat;
   background-size: cover;
 
 }
