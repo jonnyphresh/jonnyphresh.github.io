@@ -35,4 +35,3 @@ If you or your child is into checking out the toys, then they are a great bridge
 I have 14 years experience and look forward to a great lesson.
 
 See you in the water
-</body>
