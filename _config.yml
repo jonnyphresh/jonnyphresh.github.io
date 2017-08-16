@@ -16,13 +16,13 @@
 title: Swim Logix™
 description: Providing Private Instruction Since 2003
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://swimlogix.com" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username:
 github_username:  jonnyphresh
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-architect
+theme: minima
 plugins:
   - jekyll-feed
 
