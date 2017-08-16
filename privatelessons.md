@@ -3,6 +3,11 @@ layout: page
 title: Private Lessons
 permalink: /Private Lessons/
 ---
+body {
+  background-image: url('pool.jpg') center center no-repeat;
+  background-size: cover;
+
+}
 
 For Private Lessons:
 
