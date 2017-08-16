@@ -4,7 +4,7 @@ title: About
 permalink: /About Me/
 ---
 
-Please [Contact Us](https://jonnyphresh.github.io/Contact%20Us/) for information about private lessons
+Please [Contact Us](https://swimlogix.com/Contact%20Us/) for information about private lessons
 
 <header class=" _o2h6b"><div class="_o0ohn"><div class="_8gpiy _r43r5"><img class="_iv4d5" src="https://instagram.fsan1-1.fna.fbcdn.net/t51.2885-19/11809702_838503769570265_551739110_a.jpg"></div></div><div class="_de9bg"><div class="_8mm5v"><h1 class="_i572c notranslate"></h1></div><div class="_hcch2"><span class=" _6ildf _7k49n"></span></div></div></header>
 
