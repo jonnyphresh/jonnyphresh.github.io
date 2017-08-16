@@ -4,7 +4,7 @@ title: News
 permalink: /News/
 ---
 
-Latest News
+Latest News 
 
 *August 8, 2017*
 ================
