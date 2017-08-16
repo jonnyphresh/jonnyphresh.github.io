@@ -7,7 +7,7 @@ html {
   -ms-overflow-style: scrollbar;
 }
 body {
-  background: ("pool.jpg") center center no-repeat;
+  background-image: url("pool.jpg") center center no-repeat;
   background-size: cover;
 
 }
