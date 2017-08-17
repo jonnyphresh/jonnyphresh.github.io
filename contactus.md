@@ -22,8 +22,8 @@ We will reach out to you with availability.
 <input type="hidden" name="_wpcf7_nonce" value="05a3b63585">
 </div>
 <div id="summer">
-<div><span class="wpcf7-form-control-wrap checkbox-0728"><span class="wpcf7-form-control wpcf7-checkbox"><span class="wpcf7-list-item first last"><input type="checkbox" name="checkbox-0728[]" value="July 24 - July 28: Beach exploration and play"><span class="wpcf7-list-item-label">July 24 - July 28: Beach exploration and play</span></span></span></span></div>
-</div>
+<!--- <div><span class="wpcf7-form-control-wrap checkbox-0728"><span class="wpcf7-form-control wpcf7-checkbox"><span class="wpcf7-list-item first last"><input type="checkbox" name="checkbox-0728[]" value="July 24 - July 28: Beach exploration and play"><span class="wpcf7-list-item-label">July 24 - July 28: Beach exploration and play</span></span></span></span></div>
+</div> --->
 <div id="contactfields">
 <div class="contact-input"><span class="wpcf7-form-control-wrap your-name"><input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="NAME"></span></div>
 <div class="contact-input"><span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="EMAIL"></span></div>
