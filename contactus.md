@@ -47,4 +47,5 @@ Thank you so much for your interest!
     <input type="hidden" name="_next" value="//jonnyphresh.github.io/thanks"/>
     <input type="hidden" name="_subject" value="Thank you for reaching out" />
     <input type="text" name="_gotcha" style="display:none" />
+    <input type="hidden" name="_format" value="plain" />
 </form></p>
