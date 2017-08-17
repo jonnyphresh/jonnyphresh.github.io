@@ -40,6 +40,7 @@ We will reach out to you with availability.
 <div id="messagearea"> <span class="wpcf7-form-control-wrap textarea-comments"><textarea name="textarea-comments" cols="50" rows="10" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false" placeholder="ADDITIONAL COMMENTS"></textarea></span></div>
 
 <div class="wpcf7-response-output wpcf7-display-none"></div>
+<input type="submit" value="SUBMIT" class="wpcf7-form-control wpcf7-submit">
 
 <!--- <div><span class="wpcf7-form-control-wrap checkbox-0728"><span class="wpcf7-form-control wpcf7-checkbox"><span class="wpcf7-list-item first last"><input type="checkbox" name="checkbox-0728[]" value="July 24 - July 28: Beach exploration and play"><span class="wpcf7-list-item-label">July 24 - July 28: Beach exploration and play</span></span></span></span></div>
 </div> --->
