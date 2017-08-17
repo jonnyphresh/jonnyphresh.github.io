@@ -6,9 +6,13 @@ permalink: /Contact Us/
 
 
 
-Thank you so much for your interest!
+Thank you for your interest!
 
-<!-- <form action="/summer/#wpcf7-f1931-p1932-o1" method="post" class="wpcf7-form" novalidate="novalidate">
+Please enter the information below in the following fields.
+
+We will reach out to you with availability.
+
+<form action="/summer/#wpcf7-f1931-p1932-o1" method="post" class="wpcf7-form" novalidate="novalidate">
 <div style="display: none;">
 <input type="hidden" name="_wpcf7" value="1931">
 <input type="hidden" name="_wpcf7_version" value="4.8">
@@ -38,14 +42,3 @@ Thank you so much for your interest!
 <div id="messagearea"> <span class="wpcf7-form-control-wrap textarea-comments"><textarea name="textarea-comments" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false" placeholder="ADDITIONAL COMMENTS"></textarea></span></div>
 
 <div class="wpcf7-response-output wpcf7-display-none"></div></form>
--->
-<p><form action="https://formspree.io/swimnewscompiler@gmail.com"
-      method="POST">
-    <input type="text" name="name" placeholder="Your Name Goes Here"/>
-    <input type="text" name="_replyto" placeholder="Your Email Goes Here"/>
-    <input type="submit" value="Send">
-    <input type="hidden" name="_next" value="//jonnyphresh.github.io/thanks"/>
-    <input type="hidden" name="_subject" value="Thank you for reaching out! We may take up to 24 hrs to respond, but often we respond quicker." />
-    <input type="text" name="_gotcha" style="display:none" />
-    <input type="hidden" name="_format" value="plain" />
-</form></p>
