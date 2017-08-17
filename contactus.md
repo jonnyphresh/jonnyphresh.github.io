@@ -45,7 +45,7 @@ Thank you so much for your interest!
     <input type="text" name="_replyto" placeholder="Your Email Goes Here"/>
     <input type="submit" value="Send">
     <input type="hidden" name="_next" value="//jonnyphresh.github.io/thanks"/>
-    <input type="hidden" name="_subject" value="Thank you for reaching out" />
+    <input type="hidden" name="_subject" value="Thank you for reaching out! We may take up to 24 hrs to respond, but often we respond quicker." />
     <input type="text" name="_gotcha" style="display:none" />
     <input type="hidden" name="_format" value="plain" />
 </form></p>
