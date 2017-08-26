@@ -46,8 +46,9 @@ Thank you so much for your interest!
     <input type="text" name="child_name" placeholder="Child Name"/>
     <input type="text" name="child_age" placeholder="Child Age"/>
     <input type="text" name="experience" placeholder="Prior Swim Lessons?"/>
+    <input type="text" name="fear_level" placeholder="Fear of the Water?"/>
     <input type="submit" value="Send">
     <input type="hidden" name="_next" value="//jonnyphresh.github.io/thanks"/>
-    <input type="hidden" name="_subject" value="Thank you for reaching out" />
+    <input type="hidden" name="_subject" value="Thank you for reaching out, we will reply ASAP" />
     <input type="text" name="_gotcha" style="display:none" />
 </p>
