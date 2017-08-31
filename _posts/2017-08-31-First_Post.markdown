@@ -23,10 +23,8 @@ This high recommendation of swimming early in life only re-iterates the importan
 
 Saving lives is something I've been learning to do since the age of 5 when I started helping my mom demonstrate techniques for her swim students. When I finally had the opportunity to save another life, I did.
 
-The first time I helped out someone in the ocean, was my cousin when we were down in Mexico. We both brought out bodyboards, mine with a leash, and his without, and soon enough his board washed a shore. I could tell he was pretty nervous and wanted to get back to the sand.
+The first time I helped out someone in the ocean, I was 7 and it was my cousin when we were down in Mexico. We both brought out bodyboards, mine with a leash, and his without, and soon enough his board washed a shore. I could tell he was pretty nervous and wanted to get back to the sand.
 
 I took off my leash, gave my board to him, and he made it back to shore safely. What happened to me will be the next post.
 
 Thanks for checking out Swimlogix and hope you have an awesome day!
-
--Jon
