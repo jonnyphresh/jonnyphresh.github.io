@@ -3,8 +3,9 @@ layout: page
 title: Programming
 permalink: /Programming/
 ---
+Please [Contact Us](https://jonnyphresh.github.io/Contact%20Us/) for information about private lessons
 
-What Swim Logix™ Offers
+What Swim Logix Offers
 -----------------------
 - Private Swim Lessons
 
