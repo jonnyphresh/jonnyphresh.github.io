@@ -3,8 +3,9 @@ layout: page
 title: News
 permalink: /News/
 ---
+Please [Contact Us](https://jonnyphresh.github.io/Contact%20Us/) for information about private lessons
 
-Latest News 
+Latest News
 
 *August 8, 2017*
 ================
