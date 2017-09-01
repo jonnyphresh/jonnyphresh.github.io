@@ -50,7 +50,7 @@ Thank you so much for your interest.
     <br><input type="text" name="experience" placeholder="Prior Swim Lessons?"/>
     <br><input type="text" name="fear_level" placeholder="Fear of the Water?"/>
     <br><input type="submit" value="Send"/>
-    <input type="hidden" name="_next" value="//jonnyphresh.github.io/thanks"/>
+    <input type="hidden" name="_next" value="//jonnyphresh.github.io/"/>
     <input type="hidden" name="_subject" value="Thank you for reaching out, we will reply ASAP" />
     <input type="text" name="_gotcha" style="display:none" />
 </p>
