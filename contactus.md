@@ -6,7 +6,9 @@ permalink: /Contact Us/
 
 
 
-Thank you so much for your interest!
+Thank you so much for your interest.
+
+*Please fill out the following fields and we will get back to you ASAP!*
 
 <!-- <form action="/summer/#wpcf7-f1931-p1932-o1" method="post" class="wpcf7-form" novalidate="novalidate">
 <div style="display: none;">
