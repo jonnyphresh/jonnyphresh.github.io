@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Swim Logix
 description: Providing Private Instruction Since 2003
-baseurl: "https://swimlogix.com/2017-08-31-Welcome-to-Swim-Logix.markdown" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://swimlogix.com" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username:
 github_username:  jonnyphresh
