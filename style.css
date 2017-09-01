@@ -1004,7 +1004,7 @@ body {
         align-self: stretch !important;
   }
 }
-.text {
+p {
   color: #fff, #333, inherit;
   background-color: #3f3, #fff, inherit;
   margin-left: 20px
