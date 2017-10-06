@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Programming
-permalink: /Programming/
+title: Offerings
+permalink: /Offerings/
 ---
 Please [Contact Us](https://jonnyphresh.github.io/Contact%20Us/) for information about private swim lessons
 
